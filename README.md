@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, world.
+
+- 👨🏻‍💻 I’m currently studying computer science at the University of Alaska Fairbanks.
+- 🤖 Learn more about my current projects and interests: [https://techsolomon.com/blog/](https://techsolomon.com/blog/)
+- 📧 How to reach me: [sbhimelbloom@alaska.edu](mailto:sbhimelbloom@alaska.edu)
 
 <!--
 **TechSolomon/TechSolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
