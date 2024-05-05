@@ -1,6 +1,6 @@
 ### Hello, world.
 
-- 👨🏻‍💻 I’m currently studying computer science at the University of Alaska Fairbanks.
+- 👨🏻‍💻 I studied computer science at the University of Alaska Fairbanks.
 - 🤖 Learn more about my current projects and interests: [https://techsolomon.com](https://techsolomon.com)
 - 📧 How to reach me: [sbhimelbloom@alaska.edu](mailto:sbhimelbloom@alaska.edu)
 
