@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I studied computer science at the University of Alaska Fairbanks.
 - 🤖 Learn more about my current projects and interests: [https://techsolomon.com](https://techsolomon.com)
-- 📧 How to reach me: [sbhimelbloom@alaska.edu](mailto:sbhimelbloom@alaska.edu)
+- 📧 How to reach me: [sbhimelbloom@alaska.edu](mailto:sbhimelbloom@alaska.edu) -or- [AIresource@aksbdc.org](mailto:AIresource@aksbdc.org)
 
 <!--
 **TechSolomon/TechSolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
